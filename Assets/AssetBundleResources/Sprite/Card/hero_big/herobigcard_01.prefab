@@ -1,0 +1,1249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1530288410684820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4418207644135398}
+  - component: {fileID: 114801953774306600}
+  m_Layer: 0
+  m_Name: herobigcard_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4418207644135398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530288410684820}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114801953774306600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530288410684820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 4651b64181c79484a8bbe072c11f4410, type: 2}
+  materialGray: {fileID: 0}
+  materialBright: {fileID: 0}
+  mSprites:
+  - name: BIGCARD_1ST
+    x: 875
+    y: 426
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_1ST_02
+    x: 125
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_2ND
+    x: 500
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_2ND_02
+    x: 1375
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_ANY_MAN
+    x: 500
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_ANY_WOMAN
+    x: 1000
+    y: 120
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_BAEKMORAE
+    x: 750
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_BAEKMORAE_05
+    x: 1000
+    y: 426
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_BENOM
+    x: 1000
+    y: 579
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_BENOM_03
+    x: 750
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_CANDY_A
+    x: 1250
+    y: 885
+    width: 88
+    height: 139
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 15
+    paddingTop: 11
+    paddingBottom: 10
+  - name: BIGCARD_CANDY_B
+    x: 964
+    y: 885
+    width: 88
+    height: 139
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 15
+    paddingTop: 11
+    paddingBottom: 10
+  - name: BIGCARD_CANDY_S
+    x: 625
+    y: 273
+    width: 88
+    height: 139
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 15
+    paddingTop: 11
+    paddingBottom: 10
+  - name: BIGCARD_CANDY_SS
+    x: 875
+    y: 885
+    width: 88
+    height: 139
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 15
+    paddingTop: 11
+    paddingBottom: 10
+  - name: BIGCARD_CANDY_SSS
+    x: 1625
+    y: 732
+    width: 88
+    height: 139
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 15
+    paddingTop: 11
+    paddingBottom: 10
+  - name: BIGCARD_DANA
+    x: 375
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_DANA_02
+    x: 1000
+    y: 273
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_DANA_A
+    x: 375
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_DANTE
+    x: 375
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_DANTE_03
+    x: 1500
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_DEIL
+    x: 250
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_DUNE
+    x: 250
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_DUNE_04
+    x: 1125
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_ETEUNADEU
+    x: 1125
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_ETEUNADEU_03
+    x: 1250
+    y: 732
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_EUNBIDAN
+    x: 0
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_EUNBIDAN_03
+    x: 750
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_GEUREGORI
+    x: 1625
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_GEUREGORI_05
+    x: 625
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_GIN_A
+    x: 1500
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_GWINEUNG
+    x: 1125
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_GWINEUNG_02
+    x: 125
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_HEIZE
+    x: 375
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_HEIZE_CHAIR
+    x: 1750
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_HEIZE_CHAIR_05
+    x: 1625
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_HENA_A
+    x: 250
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_HWANGRO
+    x: 0
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_HYENA
+    x: 250
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_HYENA_02
+    x: 0
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_JELRINA
+    x: 1125
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_JELRINA_05
+    x: 250
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_LADY
+    x: 1500
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_LADY_03
+    x: 1375
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_LADY_04
+    x: 1625
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_LODGE
+    x: 875
+    y: 732
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_LODGE_05
+    x: 500
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_MAGO
+    x: 0
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_MAGO_04
+    x: 1714
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_MEDUSA
+    x: 0
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_MEDUSA_02
+    x: 625
+    y: 120
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_MEDUSA_05
+    x: 875
+    y: 579
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_MULBORA
+    x: 625
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_MULBORA_05
+    x: 1375
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_NAGA
+    x: 1839
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_NAGA_S
+    x: 750
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_NAGA_S_03
+    x: 750
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_NAKA_A
+    x: 625
+    y: 719
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_NOCTURNE
+    x: 875
+    y: 273
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_ORCA
+    x: 1875
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_ORCA_02
+    x: 1875
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_ORCA_05
+    x: 250
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_OSU
+    x: 1125
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_OSU_02
+    x: 1750
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_RAIN
+    x: 1250
+    y: 273
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_RAPTER_STAND
+    x: 125
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_RAPTOR
+    x: 1000
+    y: 732
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_RAPTOR_05
+    x: 1125
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_REDRUM
+    x: 1500
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_RONA
+    x: 375
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_RONA_03
+    x: 500
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SANGJE
+    x: 1625
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SASA
+    x: 1375
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SASA_02
+    x: 750
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SASA_A
+    x: 1500
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SASA_SNIPER
+    x: 1625
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SEWOL
+    x: 375
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SEWOL_03
+    x: 1250
+    y: 120
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SOLOMON
+    x: 500
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SOLOMON_02
+    x: 625
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SONGHA
+    x: 1375
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_SONGHA_03
+    x: 125
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_STELL
+    x: 125
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_STELL_05
+    x: 875
+    y: 120
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_TEURESI
+    x: 1875
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_TEURESI_03
+    x: 500
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_UNLUCKY
+    x: 1750
+    y: 566
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_VIVIAN
+    x: 1250
+    y: 426
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_VIVIAN_02
+    x: 125
+    y: 107
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_YEOMHO
+    x: 1375
+    y: 872
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_YOUDA
+    x: 1250
+    y: 579
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_YOUNGJUNG
+    x: 1500
+    y: 413
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  - name: BIGCARD_YUDA_A
+    x: 0
+    y: 260
+    width: 124
+    height: 152
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 8
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []

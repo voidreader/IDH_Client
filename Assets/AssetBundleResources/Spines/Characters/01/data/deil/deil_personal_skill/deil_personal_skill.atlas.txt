@@ -1,0 +1,20 @@
+
+deil_personal_skill.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_035_3
+  rotate: false
+  xy: 2, 99
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+im_035_3_1
+  rotate: false
+  xy: 2, 2
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1

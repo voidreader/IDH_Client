@@ -1,0 +1,48 @@
+
+hwangro_personal_skill.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_1
+  rotate: false
+  xy: 2, 2
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_038_1
+  rotate: false
+  xy: 2, 142
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+im_038_2
+  rotate: false
+  xy: 2, 70
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+im_038_3
+  rotate: false
+  xy: 74, 142
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+im_104_1
+  rotate: false
+  xy: 74, 131
+  size: 46, 9
+  orig: 46, 9
+  offset: 0, 0
+  index: -1
+im_104_2
+  rotate: false
+  xy: 146, 203
+  size: 46, 9
+  orig: 46, 9
+  offset: 0, 0
+  index: -1

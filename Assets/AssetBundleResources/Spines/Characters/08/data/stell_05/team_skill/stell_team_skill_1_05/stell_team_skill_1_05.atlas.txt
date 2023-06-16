@@ -1,0 +1,258 @@
+
+stell_team_skill_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car
+  rotate: false
+  xy: 2, 806
+  size: 160, 82
+  orig: 160, 82
+  offset: 0, 0
+  index: -1
+ef_lights
+  rotate: false
+  xy: 2, 2
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_024_1
+  rotate: false
+  xy: 2, 669
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+im_032_1
+  rotate: true
+  xy: 2, 529
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_2
+  rotate: true
+  xy: 2, 389
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_3
+  rotate: true
+  xy: 2, 249
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_4
+  rotate: true
+  xy: 2, 109
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_5
+  rotate: false
+  xy: 328, 925
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_033_1
+  rotate: true
+  xy: 164, 798
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_2
+  rotate: false
+  xy: 161, 684
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_3
+  rotate: false
+  xy: 251, 684
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_4
+  rotate: true
+  xy: 278, 798
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_5
+  rotate: false
+  xy: 341, 684
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_039_1
+  rotate: false
+  xy: 627, 863
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_2
+  rotate: false
+  xy: 714, 863
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_3
+  rotate: false
+  xy: 801, 863
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_4
+  rotate: false
+  xy: 888, 863
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_5
+  rotate: false
+  xy: 587, 791
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_040_1_1
+  rotate: false
+  xy: 165, 942
+  size: 161, 80
+  orig: 161, 80
+  offset: 0, 0
+  index: -1
+im_040_1_2
+  rotate: false
+  xy: 2, 890
+  size: 161, 132
+  orig: 161, 132
+  offset: 0, 0
+  index: -1
+im_040_2_1
+  rotate: false
+  xy: 468, 935
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_2
+  rotate: false
+  xy: 597, 935
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_3
+  rotate: false
+  xy: 726, 935
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_4
+  rotate: false
+  xy: 855, 935
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_3_1
+  rotate: true
+  xy: 935, 777
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_3_2
+  rotate: false
+  xy: 431, 719
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_3_3
+  rotate: false
+  xy: 431, 641
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_4_1
+  rotate: true
+  xy: 500, 797
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_2
+  rotate: true
+  xy: 674, 779
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_3
+  rotate: true
+  xy: 761, 779
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_4
+  rotate: true
+  xy: 848, 779
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_041_1
+  rotate: true
+  xy: 107, 679
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_2
+  rotate: false
+  xy: 165, 888
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_3
+  rotate: true
+  xy: 392, 798
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_4
+  rotate: true
+  xy: 446, 798
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_5
+  rotate: false
+  xy: 500, 881
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1

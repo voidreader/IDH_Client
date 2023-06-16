@@ -1,0 +1,55 @@
+
+Common_ef_23_damage_down.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 138
+  size: 271, 345
+  orig: 271, 345
+  offset: 0, 0
+  index: -1
+im_002_1
+  rotate: false
+  xy: 2, 70
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_102_1
+  rotate: false
+  xy: 275, 417
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+im_102_2
+  rotate: false
+  xy: 2, 2
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+im_102_3
+  rotate: false
+  xy: 59, 70
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+im_102_4
+  rotate: false
+  xy: 275, 349
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+im_102_5
+  rotate: false
+  xy: 325, 417
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1

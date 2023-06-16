@@ -1,0 +1,547 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1512232420189028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4106987433723576}
+  - component: {fileID: 114458883030481658}
+  m_Layer: 0
+  m_Name: itemcard_shop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4106987433723576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512232420189028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114458883030481658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512232420189028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a4472311db160af4cae47e9a59137a00, type: 2}
+  materialGray: {fileID: 0}
+  materialBright: {fileID: 0}
+  mSprites:
+  - name: SHOP_128_01_01
+    x: 70
+    y: 223
+    width: 49
+    height: 50
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 38
+    paddingTop: 40
+    paddingBottom: 38
+  - name: SHOP_128_01_02
+    x: 0
+    y: 213
+    width: 69
+    height: 66
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 28
+    paddingRight: 31
+    paddingTop: 34
+    paddingBottom: 28
+  - name: SHOP_128_01_03
+    x: 318
+    y: 303
+    width: 75
+    height: 76
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 27
+    paddingRight: 26
+    paddingTop: 28
+    paddingBottom: 24
+  - name: SHOP_128_01_04
+    x: 788
+    y: 431
+    width: 72
+    height: 81
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 28
+    paddingRight: 28
+    paddingTop: 27
+    paddingBottom: 20
+  - name: SHOP_128_01_05
+    x: 719
+    y: 347
+    width: 77
+    height: 81
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 23
+    paddingRight: 28
+    paddingTop: 27
+    paddingBottom: 20
+  - name: SHOP_128_01_06
+    x: 0
+    y: 17
+    width: 85
+    height: 83
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 23
+    paddingRight: 20
+    paddingTop: 27
+    paddingBottom: 18
+  - name: SHOP_128_02_01
+    x: 240
+    y: 464
+    width: 83
+    height: 48
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 26
+    paddingRight: 19
+    paddingTop: 44
+    paddingBottom: 36
+  - name: SHOP_128_02_02
+    x: 295
+    y: 7
+    width: 85
+    height: 59
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 26
+    paddingRight: 17
+    paddingTop: 38
+    paddingBottom: 31
+  - name: SHOP_128_02_03
+    x: 861
+    y: 449
+    width: 97
+    height: 63
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 17
+    paddingRight: 14
+    paddingTop: 39
+    paddingBottom: 26
+  - name: SHOP_128_02_04
+    x: 189
+    y: 175
+    width: 105
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 19
+    paddingRight: 4
+    paddingTop: 16
+    paddingBottom: 14
+  - name: SHOP_128_02_05
+    x: 295
+    y: 174
+    width: 105
+    height: 105
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 19
+    paddingRight: 4
+    paddingTop: 16
+    paddingBottom: 7
+  - name: SHOP_128_02_06
+    x: 295
+    y: 67
+    width: 120
+    height: 106
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 16
+    paddingBottom: 6
+  - name: SHOP_128_03_01
+    x: 596
+    y: 282
+    width: 122
+    height: 113
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 2
+    paddingTop: 11
+    paddingBottom: 4
+  - name: SHOP_128_03_02
+    x: 195
+    y: 280
+    width: 122
+    height: 113
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 2
+    paddingTop: 11
+    paddingBottom: 4
+  - name: SHOP_128_03_03
+    x: 485
+    y: 23
+    width: 124
+    height: 124
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 4
+  - name: SHOP_128_04_01
+    x: 666
+    y: 429
+    width: 121
+    height: 83
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 24
+    paddingBottom: 21
+  - name: SHOP_128_04_02
+    x: 318
+    y: 380
+    width: 121
+    height: 83
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 24
+    paddingBottom: 21
+  - name: SHOP_128_05_01
+    x: 226
+    y: 64
+    width: 68
+    height: 110
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 28
+    paddingTop: 10
+    paddingBottom: 8
+  - name: SHOP_128_05_02
+    x: 120
+    y: 163
+    width: 68
+    height: 110
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 28
+    paddingTop: 10
+    paddingBottom: 8
+  - name: SHOP_128_05_03
+    x: 416
+    y: 37
+    width: 68
+    height: 110
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 28
+    paddingTop: 10
+    paddingBottom: 8
+  - name: SHOP_128_05_04
+    x: 0
+    y: 280
+    width: 68
+    height: 110
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 28
+    paddingTop: 10
+    paddingBottom: 8
+  - name: SHOP_128_05_05
+    x: 527
+    y: 282
+    width: 68
+    height: 110
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 28
+    paddingTop: 10
+    paddingBottom: 8
+  - name: SHOP_128_06_01
+    x: 123
+    y: 394
+    width: 116
+    height: 118
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 5
+    paddingTop: 8
+    paddingBottom: 2
+  - name: SHOP_128_06_02
+    x: 401
+    y: 266
+    width: 125
+    height: 113
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 0
+    paddingTop: 14
+    paddingBottom: 1
+  - name: SHOP_128_06_03
+    x: 70
+    y: 274
+    width: 124
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 0
+    paddingTop: 9
+    paddingBottom: 3
+  - name: SHOP_128_07_01
+    x: 536
+    y: 160
+    width: 119
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 3
+  - name: SHOP_128_07_02
+    x: 0
+    y: 391
+    width: 122
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 3
+  - name: SHOP_128_07_03
+    x: 716
+    y: 157
+    width: 121
+    height: 124
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 5
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 0
+  - name: SHOP_128_08_01
+    x: 0
+    y: 101
+    width: 119
+    height: 111
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 13
+  - name: SHOP_128_08_02
+    x: 416
+    y: 148
+    width: 119
+    height: 117
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 7
+  - name: SHOP_128_08_03
+    x: 440
+    y: 393
+    width: 119
+    height: 119
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 5
+  - name: SHOP_128_09_01
+    x: 560
+    y: 396
+    width: 105
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 6
+  - name: SHOP_128_09_02
+    x: 716
+    y: 40
+    width: 105
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 6
+  - name: SHOP_128_09_03
+    x: 822
+    y: 40
+    width: 105
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 6
+  - name: SHOP_128_09_04
+    x: 838
+    y: 197
+    width: 105
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 6
+  - name: SHOP_128_09_05
+    x: 120
+    y: 46
+    width: 105
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 6
+  - name: SHOP_128_09_06
+    x: 610
+    y: 43
+    width: 105
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 6
+  - name: SHOP_128_09_07
+    x: 797
+    y: 314
+    width: 105
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 6
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []

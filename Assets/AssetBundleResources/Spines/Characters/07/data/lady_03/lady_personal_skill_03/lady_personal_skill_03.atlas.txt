@@ -1,0 +1,27 @@
+
+lady_personal_skill_03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_1
+  rotate: false
+  xy: 2, 2
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_049_3
+  rotate: false
+  xy: 114, 164
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+im_095
+  rotate: false
+  xy: 2, 70
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1

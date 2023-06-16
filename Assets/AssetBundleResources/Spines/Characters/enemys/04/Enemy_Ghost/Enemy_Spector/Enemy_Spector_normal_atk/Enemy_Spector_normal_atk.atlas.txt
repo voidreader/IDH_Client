@@ -1,0 +1,41 @@
+
+Enemy_Spector_normal_atk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_smoke_1
+  rotate: false
+  xy: 196, 435
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+ef_smoke_2
+  rotate: false
+  xy: 2, 2
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 2, 268
+  size: 151, 210
+  orig: 151, 210
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: true
+  xy: 2, 101
+  size: 165, 129
+  orig: 165, 129
+  offset: 0, 0
+  index: -1
+weapon_ef
+  rotate: false
+  xy: 155, 303
+  size: 39, 175
+  orig: 39, 175
+  offset: 0, 0
+  index: -1

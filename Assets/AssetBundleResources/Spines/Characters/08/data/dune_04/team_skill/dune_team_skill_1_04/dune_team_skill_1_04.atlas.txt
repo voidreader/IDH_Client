@@ -1,0 +1,13 @@
+
+dune_team_skill_1_04.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_003
+  rotate: false
+  xy: 2, 5
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1

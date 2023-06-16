@@ -1,0 +1,27 @@
+
+heize_chair_personal_skill_05.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002
+  rotate: false
+  xy: 107, 132
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_024_1
+  rotate: false
+  xy: 2, 63
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+im_024_2
+  rotate: false
+  xy: 2, 2
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1

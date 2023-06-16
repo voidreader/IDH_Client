@@ -1,0 +1,125 @@
+
+naga_team_skill_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_097_1
+  rotate: true
+  xy: 373, 293
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+im_097_2
+  rotate: false
+  xy: 158, 125
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+im_097_3
+  rotate: true
+  xy: 314, 186
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+im_097_4
+  rotate: false
+  xy: 158, 82
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+im_097_5
+  rotate: false
+  xy: 158, 39
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+im_097_6
+  rotate: true
+  xy: 247, 79
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+im_097_7
+  rotate: true
+  xy: 432, 411
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+im_105_1_1
+  rotate: false
+  xy: 2, 216
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+im_105_1_2
+  rotate: false
+  xy: 2, 109
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+im_105_1_3
+  rotate: false
+  xy: 2, 2
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+im_105_1_4
+  rotate: false
+  xy: 217, 275
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+im_105_1_5
+  rotate: false
+  xy: 158, 168
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+im_105_2_1
+  rotate: false
+  xy: 2, 441
+  size: 213, 57
+  orig: 213, 57
+  offset: 0, 0
+  index: -1
+im_105_2_2
+  rotate: false
+  xy: 2, 382
+  size: 213, 57
+  orig: 213, 57
+  offset: 0, 0
+  index: -1
+im_105_2_3
+  rotate: false
+  xy: 217, 441
+  size: 213, 57
+  orig: 213, 57
+  offset: 0, 0
+  index: -1
+im_105_2_4
+  rotate: false
+  xy: 2, 323
+  size: 213, 57
+  orig: 213, 57
+  offset: 0, 0
+  index: -1
+im_105_2_5
+  rotate: false
+  xy: 217, 382
+  size: 213, 57
+  orig: 213, 57
+  offset: 0, 0
+  index: -1

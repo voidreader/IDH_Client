@@ -1,0 +1,76 @@
+
+Common_ef_12_sleep.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_1
+  rotate: true
+  xy: 102, 2
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_069_1
+  rotate: false
+  xy: 2, 154
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+im_069_2
+  rotate: true
+  xy: 2, 79
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+im_069_3
+  rotate: true
+  xy: 77, 179
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+im_069_4
+  rotate: false
+  xy: 102, 59
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+im_069_5
+  rotate: true
+  xy: 2, 4
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+im_069_6
+  rotate: false
+  xy: 177, 154
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+im_069_7
+  rotate: false
+  xy: 177, 54
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+im_070_1
+  rotate: true
+  xy: 170, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+im_070_2
+  rotate: true
+  xy: 77, 159
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1

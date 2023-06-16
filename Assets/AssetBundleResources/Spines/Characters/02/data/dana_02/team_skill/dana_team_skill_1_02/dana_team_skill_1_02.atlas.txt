@@ -1,0 +1,153 @@
+
+dana_team_skill_1_02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background_wh
+  rotate: false
+  xy: 89, 235
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+im_002_2
+  rotate: false
+  xy: 74, 287
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_038_1
+  rotate: false
+  xy: 2, 427
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+im_038_2
+  rotate: false
+  xy: 2, 355
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+im_038_3
+  rotate: false
+  xy: 74, 427
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+im_054
+  rotate: false
+  xy: 66, 185
+  size: 21, 96
+  orig: 21, 96
+  offset: 0, 0
+  index: -1
+im_084_3_1
+  rotate: false
+  xy: 2, 210
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+im_084_3_2
+  rotate: true
+  xy: 218, 435
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+im_084_3_3
+  rotate: false
+  xy: 2, 137
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+im_087
+  rotate: false
+  xy: 89, 203
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+m_im_050_3_1
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+r_im_002_2
+  rotate: false
+  xy: 146, 359
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+r_im_038_1
+  rotate: false
+  xy: 2, 283
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+r_im_038_2
+  rotate: false
+  xy: 74, 355
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+r_im_038_3
+  rotate: false
+  xy: 146, 427
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+r_im_054
+  rotate: false
+  xy: 66, 87
+  size: 21, 96
+  orig: 21, 96
+  offset: 0, 0
+  index: -1
+r_im_084_3_1
+  rotate: true
+  xy: 291, 435
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+r_im_084_3_2
+  rotate: false
+  xy: 2, 64
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+r_im_084_3_3
+  rotate: true
+  xy: 364, 435
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+r_im_087
+  rotate: false
+  xy: 89, 171
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+r_m_im_050_3_1
+  rotate: false
+  xy: 437, 437
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

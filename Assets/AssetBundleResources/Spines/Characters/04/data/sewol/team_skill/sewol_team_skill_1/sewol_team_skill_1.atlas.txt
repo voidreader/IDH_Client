@@ -1,0 +1,307 @@
+
+sewol_team_skill_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb_01
+  rotate: false
+  xy: 978, 883
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Bomb_01_ex
+  rotate: false
+  xy: 514, 785
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Bomb_02
+  rotate: true
+  xy: 62, 341
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+ef_lights
+  rotate: true
+  xy: 165, 782
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+ef_smoke_1
+  rotate: false
+  xy: 142, 509
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+ef_smoke_2
+  rotate: false
+  xy: 286, 710
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+im_015_1
+  rotate: false
+  xy: 550, 962
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_2
+  rotate: true
+  xy: 2, 338
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_3
+  rotate: false
+  xy: 721, 962
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_024_1
+  rotate: false
+  xy: 165, 885
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+im_032_1
+  rotate: false
+  xy: 2, 707
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_2
+  rotate: false
+  xy: 270, 923
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_3
+  rotate: false
+  xy: 2, 608
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_4
+  rotate: false
+  xy: 410, 923
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_5
+  rotate: false
+  xy: 2, 509
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_033_1
+  rotate: false
+  xy: 142, 668
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_2
+  rotate: false
+  xy: 142, 554
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_3
+  rotate: false
+  xy: 272, 809
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_4
+  rotate: false
+  xy: 362, 809
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_5
+  rotate: false
+  xy: 452, 809
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_039_1
+  rotate: false
+  xy: 286, 638
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_2
+  rotate: false
+  xy: 804, 890
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_3
+  rotate: false
+  xy: 794, 818
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_4
+  rotate: false
+  xy: 373, 629
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_5
+  rotate: true
+  xy: 151, 422
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_040_1_1
+  rotate: false
+  xy: 2, 806
+  size: 161, 80
+  orig: 161, 80
+  offset: 0, 0
+  index: -1
+im_040_1_2
+  rotate: false
+  xy: 2, 888
+  size: 161, 132
+  orig: 161, 132
+  offset: 0, 0
+  index: -1
+im_040_2_1
+  rotate: true
+  xy: 62, 380
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_2
+  rotate: true
+  xy: 2, 209
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_3
+  rotate: true
+  xy: 2, 80
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_4
+  rotate: false
+  xy: 892, 933
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_3_1
+  rotate: false
+  xy: 2, 2
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_3_2
+  rotate: false
+  xy: 460, 623
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_3_3
+  rotate: false
+  xy: 151, 344
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_4_1
+  rotate: false
+  xy: 542, 821
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_2
+  rotate: false
+  xy: 626, 821
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_3
+  rotate: false
+  xy: 710, 821
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_4
+  rotate: true
+  xy: 891, 849
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_041_1
+  rotate: true
+  xy: 232, 655
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_2
+  rotate: false
+  xy: 387, 755
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_3
+  rotate: false
+  xy: 387, 701
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_4
+  rotate: false
+  xy: 550, 908
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_5
+  rotate: false
+  xy: 677, 908
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1

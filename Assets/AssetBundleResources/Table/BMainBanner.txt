@@ -1,0 +1,2 @@
+1,0,9900006,MAIN_BANNER_11,https://cafe.naver.com/idhgame?iframe_url=/ArticleList.nhn%3Fsearch.clubid=29915696%26search.menuid=18%26search.boardtype=L,-1
+2,0,9900006,MAIN_BANNER_12,https://cafe.naver.com/idhgame?iframe_url=/ArticleList.nhn%3Fsearch.clubid=29915696%26search.menuid=49%26search.boardtype=L,-1

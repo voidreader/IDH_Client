@@ -1,0 +1,20 @@
+
+Common_ef_25_poison.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_024_2
+  rotate: false
+  xy: 2, 51
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+im_071
+  rotate: false
+  xy: 2, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1

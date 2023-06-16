@@ -1,0 +1,181 @@
+
+medusa_team_skill_2_02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_1
+  rotate: false
+  xy: 62, 10
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_015_1
+  rotate: true
+  xy: 2, 193
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_2
+  rotate: false
+  xy: 107, 441
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_3
+  rotate: true
+  xy: 2, 22
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_024_1
+  rotate: false
+  xy: 2, 364
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+im_058_1_1
+  rotate: false
+  xy: 107, 386
+  size: 141, 53
+  orig: 141, 53
+  offset: 0, 0
+  index: -1
+im_058_1_2
+  rotate: false
+  xy: 278, 446
+  size: 141, 53
+  orig: 141, 53
+  offset: 0, 0
+  index: -1
+im_058_1_3
+  rotate: true
+  xy: 62, 221
+  size: 141, 53
+  orig: 141, 53
+  offset: 0, 0
+  index: -1
+im_058_1_4
+  rotate: true
+  xy: 62, 78
+  size: 141, 53
+  orig: 141, 53
+  offset: 0, 0
+  index: -1
+im_058_1_5
+  rotate: true
+  xy: 117, 243
+  size: 141, 53
+  orig: 141, 53
+  offset: 0, 0
+  index: -1
+im_058_1_6
+  rotate: true
+  xy: 117, 100
+  size: 141, 53
+  orig: 141, 53
+  offset: 0, 0
+  index: -1
+im_058_1_7
+  rotate: true
+  xy: 172, 243
+  size: 141, 53
+  orig: 141, 53
+  offset: 0, 0
+  index: -1
+im_058_2_1
+  rotate: true
+  xy: 231, 168
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+im_058_2_2
+  rotate: false
+  xy: 231, 89
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+im_058_2_3
+  rotate: false
+  xy: 286, 367
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+im_058_2_4
+  rotate: false
+  xy: 286, 288
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+im_058_2_5
+  rotate: true
+  xy: 310, 188
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+im_058_3_1
+  rotate: true
+  xy: 331, 108
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+im_058_3_2
+  rotate: true
+  xy: 453, 355
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+im_058_3_3
+  rotate: true
+  xy: 119, 20
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+im_058_4_1
+  rotate: false
+  xy: 386, 358
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+im_058_4_2
+  rotate: false
+  xy: 421, 425
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+im_058_4_3
+  rotate: false
+  xy: 386, 293
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+im_058_5_1
+  rotate: false
+  xy: 172, 125
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+im_058_5_2
+  rotate: false
+  xy: 227, 268
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1

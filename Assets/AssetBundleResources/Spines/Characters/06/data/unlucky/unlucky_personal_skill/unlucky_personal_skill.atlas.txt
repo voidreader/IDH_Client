@@ -1,0 +1,55 @@
+
+unlucky_personal_skill.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_smoke_1
+  rotate: false
+  xy: 2, 2
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+ef_smoke_2
+  rotate: false
+  xy: 322, 367
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 2, 254
+  size: 151, 210
+  orig: 151, 210
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: false
+  xy: 155, 335
+  size: 165, 129
+  orig: 165, 129
+  offset: 0, 0
+  index: -1
+weapon_c
+  rotate: true
+  xy: 155, 261
+  size: 72, 144
+  orig: 72, 144
+  offset: 0, 0
+  index: -1
+weapon_d
+  rotate: false
+  xy: 2, 47
+  size: 90, 205
+  orig: 90, 205
+  offset: 0, 0
+  index: -1
+weapon_ef
+  rotate: false
+  xy: 94, 77
+  size: 39, 175
+  orig: 39, 175
+  offset: 0, 0
+  index: -1

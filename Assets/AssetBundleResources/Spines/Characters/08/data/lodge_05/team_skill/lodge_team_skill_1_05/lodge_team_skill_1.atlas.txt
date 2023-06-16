@@ -1,0 +1,13 @@
+
+lodge_team_skill_1.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background_wh
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

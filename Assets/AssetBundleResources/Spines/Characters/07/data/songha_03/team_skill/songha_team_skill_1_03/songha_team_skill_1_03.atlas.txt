@@ -1,0 +1,62 @@
+
+songha_team_skill_1_03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_1
+  rotate: true
+  xy: 2, 2
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_049_3
+  rotate: false
+  xy: 81, 86
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+im_077_1
+  rotate: false
+  xy: 81, 42
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+im_077_2
+  rotate: false
+  xy: 66, 147
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+im_077_3
+  rotate: false
+  xy: 139, 108
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+im_077_4
+  rotate: false
+  xy: 2, 138
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+im_077_5
+  rotate: false
+  xy: 2, 59
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+im_077_6
+  rotate: false
+  xy: 132, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

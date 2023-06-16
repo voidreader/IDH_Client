@@ -1,0 +1,160 @@
+
+deil_team_skill_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_lights2
+  rotate: false
+  xy: 61, 13
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_002_1
+  rotate: false
+  xy: 124, 142
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_049_3
+  rotate: false
+  xy: 191, 257
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+im_050_1_1
+  rotate: false
+  xy: 124, 210
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+im_050_2_1
+  rotate: false
+  xy: 369, 374
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+im_050_2_2
+  rotate: false
+  xy: 124, 126
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+im_050_3_1
+  rotate: false
+  xy: 2, 242
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_2
+  rotate: false
+  xy: 150, 390
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_3
+  rotate: false
+  xy: 2, 120
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_4
+  rotate: false
+  xy: 272, 390
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_4
+  rotate: false
+  xy: 2, 364
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+im_050_5
+  rotate: false
+  xy: 284, 297
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+im_050_6
+  rotate: true
+  xy: 394, 400
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+im_050_7_1
+  rotate: false
+  xy: 281, 340
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_050_7_2
+  rotate: false
+  xy: 325, 340
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_050_7_3
+  rotate: false
+  xy: 211, 285
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_058_5_1
+  rotate: false
+  xy: 2, 2
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+im_058_5_2
+  rotate: true
+  xy: 394, 453
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+im_075_1
+  rotate: false
+  xy: 124, 277
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+im_075_3_1
+  rotate: true
+  xy: 150, 367
+  size: 21, 67
+  orig: 21, 67
+  offset: 0, 0
+  index: -1
+im_075_3_2
+  rotate: true
+  xy: 219, 335
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+im_075_3_3
+  rotate: false
+  xy: 255, 280
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+Enemy_Mask_C.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_haed_ear_l
+  rotate: true
+  xy: 187, 415
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+00_head_ear_r
+  rotate: false
+  xy: 442, 462
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+01_face_eye_l_01
+  rotate: false
+  xy: 334, 427
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+01_face_eye_l_02
+  rotate: false
+  xy: 72, 137
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+01_face_eye_l_03
+  rotate: true
+  xy: 359, 430
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+01_face_eye_r_01
+  rotate: true
+  xy: 44, 137
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+01_face_eye_r_02
+  rotate: false
+  xy: 187, 402
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+01_face_eye_r_03
+  rotate: true
+  xy: 76, 234
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+01_face_mouth_01
+  rotate: true
+  xy: 107, 380
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+01_face_mouth_02
+  rotate: true
+  xy: 35, 34
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+01_face_mouth_03
+  rotate: false
+  xy: 71, 60
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+02_head
+  rotate: false
+  xy: 2, 399
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+03_body_01_1
+  rotate: true
+  xy: 377, 454
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+03_body_01_2
+  rotate: true
+  xy: 295, 420
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+03_body_02
+  rotate: true
+  xy: 76, 348
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+03_body_ex
+  rotate: false
+  xy: 61, 44
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+04_arm_hand_r_01
+  rotate: false
+  xy: 71, 116
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+04_arm_hand_r_02
+  rotate: false
+  xy: 76, 175
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+04_arm_hand_r_03
+  rotate: false
+  xy: 44, 40
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+04_arm_hand_r_04
+  rotate: false
+  xy: 71, 95
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+04_arm_l_01
+  rotate: false
+  xy: 76, 273
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+04_arm_l_02
+  rotate: false
+  xy: 76, 201
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+04_arm_l_hand_01
+  rotate: false
+  xy: 71, 75
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+04_arm_l_hand_02
+  rotate: false
+  xy: 72, 149
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+04_arm_r_01
+  rotate: false
+  xy: 44, 61
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+04_arm_r_02
+  rotate: false
+  xy: 309, 420
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+05_leg_l_01
+  rotate: false
+  xy: 2, 7
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+05_leg_l_02
+  rotate: false
+  xy: 44, 95
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+05_leg_l_foot
+  rotate: false
+  xy: 490, 478
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+05_leg_r_01
+  rotate: true
+  xy: 247, 421
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+05_leg_r_02
+  rotate: false
+  xy: 76, 307
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+05_leg_r_foot
+  rotate: false
+  xy: 490, 446
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+im_002_1
+  rotate: true
+  xy: 309, 453
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_027
+  rotate: false
+  xy: 187, 454
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+im_091_1_1
+  rotate: false
+  xy: 2, 290
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+im_091_1_2
+  rotate: false
+  xy: 113, 401
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+im_091_1_3
+  rotate: false
+  xy: 2, 181
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 55
+  size: 124, 40
+  orig: 124, 40
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 442, 449
+  size: 11, 46
+  orig: 11, 46
+  offset: 0, 0
+  index: -1

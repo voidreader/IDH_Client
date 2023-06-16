@@ -1,0 +1,48 @@
+
+Common_ef_17_18_19_purification.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 119
+  size: 271, 345
+  orig: 271, 345
+  offset: 0, 0
+  index: -1
+ef_lights
+  rotate: false
+  xy: 275, 359
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_036_1
+  rotate: false
+  xy: 2, 9
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+im_036_3
+  rotate: true
+  xy: 2, 115
+  size: 2, 219
+  orig: 2, 219
+  offset: 0, 0
+  index: -1
+im_093_1
+  rotate: false
+  xy: 378, 441
+  size: 88, 23
+  orig: 88, 23
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 275, 268
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1

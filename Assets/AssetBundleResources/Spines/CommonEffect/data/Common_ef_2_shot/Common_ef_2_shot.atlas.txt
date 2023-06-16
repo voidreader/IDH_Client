@@ -1,0 +1,118 @@
+
+Common_ef_2_shot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_010_1
+  rotate: false
+  xy: 2, 64
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_010_2
+  rotate: false
+  xy: 148, 287
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_010_3
+  rotate: false
+  xy: 148, 64
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_010_4
+  rotate: false
+  xy: 2, 287
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_057_smoke_01
+  rotate: false
+  xy: 294, 111
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_057_smoke_02
+  rotate: false
+  xy: 401, 202
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_057_smoke_03
+  rotate: false
+  xy: 78, 29
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_057_smoke_04
+  rotate: false
+  xy: 294, 76
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_107_1
+  rotate: false
+  xy: 294, 419
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+im_107_2
+  rotate: false
+  xy: 294, 328
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+im_107_3
+  rotate: false
+  xy: 401, 419
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+im_107_4
+  rotate: false
+  xy: 294, 237
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+im_107_5
+  rotate: false
+  xy: 401, 328
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+im_107_6
+  rotate: false
+  xy: 294, 146
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+im_107_7
+  rotate: false
+  xy: 401, 237
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+im_109
+  rotate: false
+  xy: 2, 2
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1

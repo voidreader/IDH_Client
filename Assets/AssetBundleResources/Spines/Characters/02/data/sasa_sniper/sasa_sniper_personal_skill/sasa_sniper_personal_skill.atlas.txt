@@ -1,0 +1,223 @@
+
+sasa_sniper_personal_skill.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_lights2
+  rotate: false
+  xy: 312, 161
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_002_1
+  rotate: false
+  xy: 124, 123
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_015_1
+  rotate: true
+  xy: 124, 191
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_2
+  rotate: false
+  xy: 184, 328
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_3
+  rotate: false
+  xy: 184, 268
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_050_1_1
+  rotate: false
+  xy: 351, 21
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+im_050_2_1
+  rotate: true
+  xy: 415, 161
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+im_050_2_2
+  rotate: false
+  xy: 355, 268
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+im_050_3_1
+  rotate: false
+  xy: 2, 240
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_2
+  rotate: false
+  xy: 150, 388
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_3
+  rotate: false
+  xy: 2, 118
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_4
+  rotate: false
+  xy: 272, 388
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_4
+  rotate: false
+  xy: 2, 362
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+im_050_6
+  rotate: false
+  xy: 415, 174
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+im_050_7_1
+  rotate: false
+  xy: 468, 234
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_050_7_2
+  rotate: false
+  xy: 468, 184
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_050_7_3
+  rotate: false
+  xy: 468, 134
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_056
+  rotate: true
+  xy: 181, 123
+  size: 8, 83
+  orig: 8, 83
+  offset: 0, 0
+  index: -1
+im_084_3_1
+  rotate: false
+  xy: 284, 88
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+im_084_3_2
+  rotate: false
+  xy: 348, 88
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+im_084_3_3
+  rotate: false
+  xy: 418, 21
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+im_085
+  rotate: false
+  xy: 130, 34
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+m_m_im_052_1_1
+  rotate: true
+  xy: 219, 44
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+m_m_im_052_2_1
+  rotate: true
+  xy: 2, 20
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+m_m_im_052_2_2
+  rotate: false
+  xy: 394, 382
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+m_m_im_052_2_3
+  rotate: true
+  xy: 184, 170
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+m_m_im_052_2_4
+  rotate: true
+  xy: 355, 284
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+m_m_im_052_3_1
+  rotate: false
+  xy: 181, 133
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+m_m_im_052_3_2
+  rotate: false
+  xy: 219, 7
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+m_m_im_052_3_3
+  rotate: false
+  xy: 284, 51
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+m_m_im_052_3_4
+  rotate: true
+  xy: 412, 94
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1

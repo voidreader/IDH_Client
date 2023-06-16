@@ -1,0 +1,97 @@
+
+sasa_a_team_skill_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Union_tv
+  rotate: false
+  xy: 2, 232
+  size: 165, 129
+  orig: 165, 129
+  offset: 0, 0
+  index: -1
+Union_tv_ex
+  rotate: false
+  xy: 180, 393
+  size: 179, 112
+  orig: 179, 112
+  offset: 0, 0
+  index: -1
+Union_tv_light
+  rotate: false
+  xy: 2, 363
+  size: 176, 142
+  orig: 176, 142
+  offset: 0, 0
+  index: -1
+im_008_1
+  rotate: false
+  xy: 361, 408
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+im_008_2
+  rotate: false
+  xy: 120, 21
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+im_008_3
+  rotate: false
+  xy: 423, 408
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+im_008_4
+  rotate: false
+  xy: 180, 353
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+im_008_5
+  rotate: false
+  xy: 242, 353
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+im_015_1
+  rotate: true
+  xy: 2, 61
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_2
+  rotate: true
+  xy: 62, 61
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_3
+  rotate: true
+  xy: 122, 61
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_058_5_1
+  rotate: true
+  xy: 361, 448
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+im_058_5_2
+  rotate: true
+  xy: 2, 2
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1

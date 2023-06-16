@@ -1,0 +1,13 @@
+
+benom_team_skill_1_03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_024_2
+  rotate: false
+  xy: 2, 2
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1

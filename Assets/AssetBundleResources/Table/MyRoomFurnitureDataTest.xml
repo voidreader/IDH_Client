@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:ns1="Furniture">
+	<ns1:Furniture Id="0" SetType="0" Name="기본 벽지" FileName="F_00_0_1" FurnitureType="0" PlacementType="0" Description="어느 집에나 있는 흔한 벽지. 왠지 벽지 무늬 개수를 세어야 할 것 같다."/>
+	<ns1:Furniture Id="1" SetType="0" Name="기본 바닥" FileName="W_00_0_1" FurnitureType="1" PlacementType="1" Description="흔한 비닐 장판. 할머니가 생각나는 것은 기분 탓이다."/>
+	<ns1:Furniture Id="2" SetType="1" Name="마루바닥" FileName="F_01_0_1" FurnitureType="1" PlacementType="0" Description="깔끔하게 치워져 있는 마루바닥. 내일 아침에는 길거리와 비슷한 수준이 되어있을 지도 모른다."/>
+	<ns1:Furniture Id="3" SetType="1" Name="키높이 의자" FileName="F_01_2_1" FurnitureType="3" PlacementType="0" Description="아일랜드 주변에 앉을 수 있는 높은 의자. 등받이가 낮아 넘어지기 쉽다."/>
+	<ns1:Furniture Id="4" SetType="1" Name="아일랜드" FileName="F_01_2_2" FurnitureType="3" PlacementType="0" Description="다과와 음료가 차려져 있는 부엌 테이블. 컵을 헷갈리지 않도록 주의하자."/>
+	<ns1:Furniture Id="5" SetType="1" Name="음식 테이블" FileName="F_01_2_3" FurnitureType="3" PlacementType="0" Description="맛있는 파티 음식들이 차려진 테이블. 뛰다가 정강이를 부딪히면 지옥을 맛볼 지도 모른다."/>
+	<ns1:Furniture Id="6" SetType="1" Name="풍선 묶음" FileName="F_01_2_4" FurnitureType="2" PlacementType="0" Description="풍선들을 묶어 바닥에 묶어둔 풍선 한묶음. 함부로 풀면 천장까지 날아갈지도 모른다."/>
+	<ns1:Furniture Id="7" SetType="1" Name="쇼파" FileName="F_01_2_5" FurnitureType="3" PlacementType="0" Description="앉아서 담소를 나눌 수 있는 쇼파. 과자 부스러기를 남기지 않도록 조심하자."/>
+	<ns1:Furniture Id="8" SetType="1" Name="폭신한 방석" FileName="F_01_2_6" FurnitureType="2" PlacementType="0" Description="바닥에 깔고 앉을 수 있는 푹신한 방석. 오래 앉아있어도 엉덩이가 아프지 않다."/>
+	<ns1:Furniture Id="9" SetType="1" Name="파티 플래그" FileName="F_01_3_1" FurnitureType="2" PlacementType="0" Description="세모난 종이를 줄에 이어붙인 파티 플래그. 왜 세모모양인지는 알 수 없다."/>
+	<ns1:Furniture Id="10" SetType="1" Name="파티벽지" FileName="W_01_0_1" FurnitureType="0" PlacementType="1" Description="예쁜 무늬가 그려진 벽지. 보는 사람의 기분을 들뜨게 만든다."/>
+	<ns1:Furniture Id="11" SetType="1" Name="창문(야경)" FileName="W_01_1_1" FurnitureType="2" PlacementType="1" Description="먼 곳 까지 잘 보이는 넓은 창. 야경이 멋지게 보인다."/>
+	<ns1:Furniture Id="12" SetType="1" Name="즉석사진" FileName="W_01_2_1" FurnitureType="2" PlacementType="1" Description="오늘 찍은 즉석사진들을 줄에 메달아 둔 장식품. 단순하지만 매우 패셔너블해 보인다."/>
+	<ns1:Furniture Id="13" SetType="1" Name="커튼" FileName="W_01_3_1" FurnitureType="2" PlacementType="1" Description="예쁜 모양으로 늘어진 커튼. 묶는 법은 보통 중고등학교에서 배운다."/>
+	<ns1:Furniture Id="14" SetType="1" Name="벽선반" FileName="W_01_3_2" FurnitureType="2" PlacementType="1" Description="벽에 간단히 달아놓은 선반. 인형이나 피규어밖에 올려둘 수 없다."/>
+	<ns1:Furniture Id="15" SetType="1" Name="풍선 꾸러미" FileName="W_01_4_1" FurnitureType="2" PlacementType="1" Description="벽에 붙이는 풍선 꾸러미. 보통은 꽃 모양이다."/>
+	<ns1:Furniture Id="16" SetType="1" Name="벽걸이 조명" FileName="W_01_6_1" FurnitureType="2" PlacementType="1" Description="전구들이 늘어진 조명. 옛날엔 크리스마스 트리에만 달았었다."/>
+</Root>

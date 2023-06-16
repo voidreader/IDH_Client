@@ -1,0 +1,90 @@
+
+Common_ef_15_paralysis.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_100_1_1
+  rotate: false
+  xy: 2, 195
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+im_100_1_2
+  rotate: false
+  xy: 2, 152
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+im_100_1_3
+  rotate: false
+  xy: 51, 195
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+im_100_2_1
+  rotate: false
+  xy: 2, 110
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+im_100_2_2
+  rotate: false
+  xy: 51, 153
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+im_100_2_3
+  rotate: false
+  xy: 100, 196
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+im_100_3_1
+  rotate: true
+  xy: 135, 198
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+im_100_3_2
+  rotate: true
+  xy: 172, 218
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+im_100_3_3
+  rotate: false
+  xy: 2, 2
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+im_100_4_1
+  rotate: true
+  xy: 2, 73
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+im_100_4_2
+  rotate: false
+  xy: 135, 218
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+im_100_4_3
+  rotate: true
+  xy: 2, 36
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+Enemy_Ghost_charge_atk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_2
+  rotate: true
+  xy: 182, 25
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_015_1
+  rotate: false
+  xy: 2, 450
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_2
+  rotate: false
+  xy: 2, 390
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_3
+  rotate: false
+  xy: 173, 450
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_019_1
+  rotate: false
+  xy: 2, 253
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+im_019_2
+  rotate: false
+  xy: 2, 116
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+im_019_3
+  rotate: false
+  xy: 92, 253
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+im_033_1
+  rotate: false
+  xy: 2, 2
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_2
+  rotate: false
+  xy: 92, 139
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_3
+  rotate: false
+  xy: 92, 25
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_4
+  rotate: false
+  xy: 182, 336
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_118_2_1
+  rotate: true
+  xy: 344, 443
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+im_118_2_2
+  rotate: false
+  xy: 182, 209
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+im_118_2_3
+  rotate: false
+  xy: 182, 82
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+im_118_2_4
+  rotate: false
+  xy: 272, 323
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+im_118_2_5
+  rotate: true
+  xy: 339, 376
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+im_122_1_1
+  rotate: true
+  xy: 339, 321
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_2
+  rotate: false
+  xy: 371, 236
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_3
+  rotate: true
+  xy: 424, 321
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_4
+  rotate: true
+  xy: 310, 181
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_5
+  rotate: true
+  xy: 330, 126
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_6
+  rotate: false
+  xy: 331, 41
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_2_1
+  rotate: false
+  xy: 249, 242
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+im_122_2_2
+  rotate: false
+  xy: 249, 161
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+im_122_2_3
+  rotate: true
+  xy: 249, 100
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+im_122_2_4
+  rotate: true
+  xy: 250, 39
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+im_122_2_5
+  rotate: false
+  xy: 310, 240
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+im_122_2_6
+  rotate: false
+  xy: 426, 240
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1

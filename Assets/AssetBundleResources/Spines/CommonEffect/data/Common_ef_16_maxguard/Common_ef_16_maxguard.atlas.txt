@@ -1,0 +1,20 @@
+
+Common_ef_16_maxguard.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_lights
+  rotate: false
+  xy: 2, 2
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_062
+  rotate: false
+  xy: 2, 109
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1

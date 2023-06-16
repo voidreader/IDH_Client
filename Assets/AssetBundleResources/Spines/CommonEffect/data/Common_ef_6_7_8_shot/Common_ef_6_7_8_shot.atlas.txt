@@ -1,0 +1,104 @@
+
+Common_ef_6_7_8_shot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_lights2
+  rotate: false
+  xy: 2, 3
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_050_1_1
+  rotate: false
+  xy: 124, 287
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+im_050_2_1
+  rotate: false
+  xy: 491, 486
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+im_050_2_2
+  rotate: false
+  xy: 105, 94
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+im_050_3_1
+  rotate: false
+  xy: 2, 232
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_2
+  rotate: false
+  xy: 150, 380
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_3
+  rotate: false
+  xy: 2, 110
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_3_4
+  rotate: false
+  xy: 272, 380
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+im_050_4
+  rotate: false
+  xy: 2, 354
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+im_050_5
+  rotate: false
+  xy: 124, 194
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+im_050_6
+  rotate: false
+  xy: 394, 392
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+im_050_7_1
+  rotate: false
+  xy: 447, 452
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_050_7_2
+  rotate: false
+  xy: 447, 402
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+im_050_7_3
+  rotate: false
+  xy: 124, 237
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1

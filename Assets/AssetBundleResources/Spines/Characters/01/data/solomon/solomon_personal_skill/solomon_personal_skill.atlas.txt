@@ -1,0 +1,146 @@
+
+solomon_personal_skill.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_jin
+  rotate: false
+  xy: 148, 667
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+ef_jin1
+  rotate: false
+  xy: 2, 222
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ef_jin2
+  rotate: false
+  xy: 271, 657
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+ef_light
+  rotate: false
+  xy: 247, 550
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_003
+  rotate: false
+  xy: 148, 355
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+im_010_1
+  rotate: false
+  xy: 2, 790
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_010_2
+  rotate: false
+  xy: 2, 567
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_010_3
+  rotate: false
+  xy: 148, 790
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_010_4
+  rotate: false
+  xy: 2, 344
+  size: 144, 221
+  orig: 144, 221
+  offset: 0, 0
+  index: -1
+im_017_1
+  rotate: false
+  xy: 449, 835
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+im_017_2
+  rotate: false
+  xy: 294, 859
+  size: 153, 152
+  orig: 153, 152
+  offset: 0, 0
+  index: -1
+im_019_1
+  rotate: false
+  xy: 148, 387
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+im_019_2
+  rotate: true
+  xy: 735, 923
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+im_019_3
+  rotate: true
+  xy: 872, 923
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+im_019_4
+  rotate: true
+  xy: 294, 769
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+im_021_1
+  rotate: false
+  xy: 449, 914
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_021_2
+  rotate: true
+  xy: 148, 524
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_021_3
+  rotate: true
+  xy: 2, 79
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_021_4
+  rotate: false
+  xy: 592, 914
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_023
+  rotate: true
+  xy: 2, 2
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1

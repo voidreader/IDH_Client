@@ -1,0 +1,1184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1571642642321382
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4432420068199090}
+  - component: {fileID: 114550525849006950}
+  m_Layer: 0
+  m_Name: battlecard_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4432420068199090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571642642321382}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114550525849006950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571642642321382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 9b9ae9bf3de04bf4c9a0f5a1b8c9326a, type: 2}
+  materialGray: {fileID: 0}
+  materialBright: {fileID: 0}
+  mSprites:
+  - name: BATTLECARD_1ST
+    x: 1432
+    y: 621
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_1ST_02
+    x: 519
+    y: 722
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_2ND
+    x: 173
+    y: 565
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_2ND_02
+    x: 716
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_ANY_MAN
+    x: 1432
+    y: 391
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_ANY_WOMAN
+    x: 197
+    y: 105
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_BAEKMORAE
+    x: 370
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_BAEKMORAE_05
+    x: 889
+    y: 621
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_BENOM
+    x: 1062
+    y: 60
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_BENOM_03
+    x: 937
+    y: 189
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_DANA
+    x: 1605
+    y: 621
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_DANA_02
+    x: 1629
+    y: 419
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_DANA_A
+    x: 0
+    y: 896
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_DANTE
+    x: 692
+    y: 262
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_DANTE_03
+    x: 173
+    y: 335
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_DEIL
+    x: 1432
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_DUNE
+    x: 519
+    y: 593
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_DUNE_04
+    x: 1086
+    y: 593
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_ETEUNADEU
+    x: 1110
+    y: 189
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_ETEUNADEU_03
+    x: 1259
+    y: 391
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_EUNBIDAN
+    x: 1062
+    y: 694
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_EUNBIDAN_03
+    x: 692
+    y: 391
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_GEUREGORI
+    x: 567
+    y: 133
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_GEUREGORI_05
+    x: 1211
+    y: 492
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_GIN_A
+    x: 889
+    y: 290
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_GWINEUNG
+    x: 1086
+    y: 318
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_GWINEUNG_02
+    x: 1259
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_HEIZE
+    x: 1086
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_HEIZE_CHAIR
+    x: 913
+    y: 520
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_HEIZE_CHAIR_05
+    x: 1730
+    y: 823
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_HENA_A
+    x: 197
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_HWANGRO
+    x: 1456
+    y: 133
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_HYENA
+    x: 567
+    y: 492
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_HYENA_02
+    x: 543
+    y: 823
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_JELRINA
+    x: 692
+    y: 722
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_JELRINA_05
+    x: 0
+    y: 795
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_LADY
+    x: 1730
+    y: 520
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_LADY_03
+    x: 0
+    y: 391
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_LADY_04
+    x: 716
+    y: 823
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_LODGE
+    x: 346
+    y: 565
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_LODGE_05
+    x: 1038
+    y: 795
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_MAGO
+    x: 716
+    y: 32
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_MAGO_04
+    x: 346
+    y: 666
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_MEDUSA
+    x: 1605
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_MEDUSA_02
+    x: 1408
+    y: 722
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_MEDUSA_05
+    x: 173
+    y: 666
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_MULBORA
+    x: 0
+    y: 290
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_MULBORA_05
+    x: 0
+    y: 189
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_NAGA
+    x: 346
+    y: 234
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_NAGA_S
+    x: 0
+    y: 694
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_NAGA_S_03
+    x: 1754
+    y: 722
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_NAKA_A
+    x: 0
+    y: 593
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_NOCTURNE
+    x: 1259
+    y: 621
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_ORCA
+    x: 370
+    y: 436
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_ORCA_02
+    x: 1384
+    y: 823
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_ORCA_05
+    x: 370
+    y: 823
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_OSU
+    x: 370
+    y: 4
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_OSU_02
+    x: 1038
+    y: 419
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_RAIN
+    x: 173
+    y: 767
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_RAPTER_STAND
+    x: 1211
+    y: 823
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_RAPTOR
+    x: 173
+    y: 436
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_RAPTOR_05
+    x: 1235
+    y: 722
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_REDRUM
+    x: 1557
+    y: 520
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_RONA
+    x: 1307
+    y: 262
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_RONA_03
+    x: 865
+    y: 419
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SANGJE
+    x: 740
+    y: 133
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_SASA
+    x: 1581
+    y: 722
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SASA_02
+    x: 1384
+    y: 520
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SASA_A
+    x: 519
+    y: 234
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SASA_SNIPER
+    x: 197
+    y: 4
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SEWOL
+    x: 519
+    y: 335
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SEWOL_03
+    x: 1504
+    y: 290
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SOLOMON
+    x: 0
+    y: 60
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_SOLOMON_02
+    x: 740
+    y: 520
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SONGHA
+    x: 0
+    y: 492
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_SONGHA_03
+    x: 346
+    y: 335
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_STELL
+    x: 865
+    y: 722
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_STELL_05
+    x: 173
+    y: 234
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_TEURESI
+    x: 543
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_TEURESI_03
+    x: 716
+    y: 621
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_UNLUCKY
+    x: 889
+    y: 32
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_VIVIAN
+    x: 889
+    y: 896
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_VIVIAN_02
+    x: 1778
+    y: 924
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_YEOMHO
+    x: 1259
+    y: 60
+    width: 196
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BATTLECARD_YOUDA
+    x: 394
+    y: 133
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_YOUNGJUNG
+    x: 1557
+    y: 823
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  - name: BATTLECARD_YUDA_A
+    x: 543
+    y: 32
+    width: 172
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 12
+    paddingTop: 14
+    paddingBottom: 14
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []

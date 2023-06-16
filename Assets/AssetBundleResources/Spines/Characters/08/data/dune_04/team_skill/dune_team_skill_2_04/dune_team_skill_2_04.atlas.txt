@@ -1,0 +1,286 @@
+
+dune_team_skill_2_04.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_lights
+  rotate: false
+  xy: 155, 517
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+im_015_1
+  rotate: false
+  xy: 328, 952
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_2
+  rotate: false
+  xy: 499, 952
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_015_3
+  rotate: false
+  xy: 670, 952
+  size: 169, 58
+  orig: 169, 58
+  offset: 0, 0
+  index: -1
+im_024_1
+  rotate: false
+  xy: 2, 616
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+im_032_1
+  rotate: true
+  xy: 2, 476
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_2
+  rotate: true
+  xy: 2, 336
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_3
+  rotate: true
+  xy: 2, 196
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_4
+  rotate: true
+  xy: 2, 56
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_032_5
+  rotate: false
+  xy: 841, 913
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+im_033_1
+  rotate: true
+  xy: 457, 862
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_2
+  rotate: true
+  xy: 571, 862
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_3
+  rotate: true
+  xy: 685, 862
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_4
+  rotate: false
+  xy: 101, 248
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_5
+  rotate: false
+  xy: 101, 134
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_039_1
+  rotate: false
+  xy: 926, 841
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_2
+  rotate: true
+  xy: 239, 430
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_3
+  rotate: false
+  xy: 226, 358
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_4
+  rotate: false
+  xy: 191, 112
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_039_5
+  rotate: false
+  xy: 187, 40
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+im_040_1_1
+  rotate: false
+  xy: 165, 930
+  size: 161, 80
+  orig: 161, 80
+  offset: 0, 0
+  index: -1
+im_040_1_2
+  rotate: false
+  xy: 2, 878
+  size: 161, 132
+  orig: 161, 132
+  offset: 0, 0
+  index: -1
+im_040_2_1
+  rotate: true
+  xy: 107, 624
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_2
+  rotate: false
+  xy: 165, 841
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_3
+  rotate: true
+  xy: 196, 658
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_2_4
+  rotate: false
+  xy: 328, 863
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+im_040_3_1
+  rotate: false
+  xy: 101, 56
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_3_2
+  rotate: true
+  xy: 275, 185
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_3_3
+  rotate: false
+  xy: 278, 107
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+im_040_4_1
+  rotate: false
+  xy: 155, 430
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_2
+  rotate: false
+  xy: 191, 271
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_3
+  rotate: false
+  xy: 191, 184
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_040_4_4
+  rotate: false
+  xy: 275, 271
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+im_041_1
+  rotate: false
+  xy: 162, 787
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_2
+  rotate: false
+  xy: 2, 2
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_3
+  rotate: false
+  xy: 799, 859
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_4
+  rotate: true
+  xy: 101, 489
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_041_5
+  rotate: true
+  xy: 101, 362
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+im_092
+  rotate: true
+  xy: 155, 384
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+im_094
+  rotate: false
+  xy: 2, 753
+  size: 158, 123
+  orig: 158, 123
+  offset: 0, 0
+  index: -1

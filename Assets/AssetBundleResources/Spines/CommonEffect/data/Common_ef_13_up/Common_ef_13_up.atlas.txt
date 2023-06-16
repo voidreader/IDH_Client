@@ -1,0 +1,13 @@
+
+Common_ef_13_up.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_063
+  rotate: false
+  xy: 2, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1

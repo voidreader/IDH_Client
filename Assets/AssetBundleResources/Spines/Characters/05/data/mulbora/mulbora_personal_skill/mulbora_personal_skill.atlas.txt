@@ -1,0 +1,188 @@
+
+mulbora_personal_skill.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_1
+  rotate: true
+  xy: 388, 264
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_021_1
+  rotate: false
+  xy: 2, 410
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_021_2
+  rotate: false
+  xy: 2, 311
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_021_3
+  rotate: false
+  xy: 145, 410
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_021_4
+  rotate: false
+  xy: 2, 212
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+im_033_1
+  rotate: false
+  xy: 145, 296
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_2
+  rotate: true
+  xy: 288, 419
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_3
+  rotate: false
+  xy: 2, 98
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_4
+  rotate: true
+  xy: 2, 8
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_033_5
+  rotate: false
+  xy: 92, 98
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+im_082_3_1
+  rotate: true
+  xy: 235, 314
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+im_082_3_2
+  rotate: true
+  xy: 116, 2
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+im_082_3_3
+  rotate: false
+  xy: 292, 362
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+im_082_3_4
+  rotate: false
+  xy: 292, 305
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+im_082_3_5
+  rotate: false
+  xy: 402, 378
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+im_082_3_6
+  rotate: false
+  xy: 388, 321
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+im_082_6_1
+  rotate: false
+  xy: 182, 81
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+im_082_6_2
+  rotate: false
+  xy: 173, 49
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+im_082_6_3
+  rotate: false
+  xy: 173, 17
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+im_082_6_4
+  rotate: true
+  xy: 254, 266
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+im_082_6_5
+  rotate: false
+  xy: 286, 273
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+im_082_6_6
+  rotate: false
+  xy: 334, 273
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+im_091_1_1
+  rotate: true
+  xy: 402, 435
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+im_091_1_2
+  rotate: true
+  xy: 145, 222
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+im_091_1_3
+  rotate: false
+  xy: 182, 113
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+im_091_2
+  rotate: true
+  xy: 456, 255
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1

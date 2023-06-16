@@ -1,0 +1,34 @@
+
+teuresi_personal_skill.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_1
+  rotate: false
+  xy: 2, 22
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_049_3
+  rotate: false
+  xy: 2, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+im_050_4
+  rotate: false
+  xy: 2, 90
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+im_054
+  rotate: false
+  xy: 150, 140
+  size: 21, 96
+  orig: 21, 96
+  offset: 0, 0
+  index: -1

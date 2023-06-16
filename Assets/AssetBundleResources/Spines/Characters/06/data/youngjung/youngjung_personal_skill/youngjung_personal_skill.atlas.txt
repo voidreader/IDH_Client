@@ -1,0 +1,111 @@
+
+youngjung_personal_skill.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_057_smoke_01
+  rotate: true
+  xy: 155, 148
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_057_smoke_02
+  rotate: false
+  xy: 214, 302
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_057_smoke_03
+  rotate: false
+  xy: 367, 463
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_057_smoke_04
+  rotate: true
+  xy: 155, 77
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+im_058_5_1
+  rotate: false
+  xy: 155, 219
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+im_058_5_2
+  rotate: false
+  xy: 308, 380
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+im_082_4_1
+  rotate: false
+  xy: 214, 272
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+im_082_4_2
+  rotate: false
+  xy: 367, 433
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+im_082_4_3
+  rotate: false
+  xy: 438, 468
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+im_082_4_4
+  rotate: true
+  xy: 155, 15
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+im_082_4_5
+  rotate: false
+  xy: 214, 242
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+m_m_im_053_1_1
+  rotate: false
+  xy: 2, 337
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1
+m_m_im_053_1_2
+  rotate: false
+  xy: 2, 176
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1
+m_m_im_053_1_3
+  rotate: false
+  xy: 155, 337
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1
+m_m_im_053_1_4
+  rotate: false
+  xy: 2, 15
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1

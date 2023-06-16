@@ -1,0 +1,97 @@
+
+Enemy_Ghost_normal_atk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+im_002_2
+  rotate: false
+  xy: 400, 387
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+im_084_1_2
+  rotate: false
+  xy: 2, 362
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+im_084_1_3
+  rotate: false
+  xy: 2, 269
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+im_084_1_4
+  rotate: false
+  xy: 98, 362
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+im_084_1_5
+  rotate: false
+  xy: 2, 176
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+im_084_1_6
+  rotate: false
+  xy: 98, 269
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+im_084_1_7
+  rotate: false
+  xy: 194, 362
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+im_122_1_1
+  rotate: false
+  xy: 2, 91
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_2
+  rotate: false
+  xy: 98, 184
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_3
+  rotate: false
+  xy: 194, 277
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_4
+  rotate: false
+  xy: 290, 370
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_5
+  rotate: false
+  xy: 2, 6
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+im_122_1_6
+  rotate: false
+  xy: 345, 370
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
