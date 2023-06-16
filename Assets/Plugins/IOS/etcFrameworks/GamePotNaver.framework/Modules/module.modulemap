@@ -1,0 +1,6 @@
+framework module GamePotNaver {
+  umbrella header "GamePotNaver.h"
+
+  export *
+  module * { export * }
+}

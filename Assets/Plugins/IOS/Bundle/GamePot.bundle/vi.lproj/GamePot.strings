@@ -1,0 +1,32 @@
+/*
+ Localizable.strings
+ GamePotSample
+ 
+ Created by Lee Chungwon on 19/02/2019.
+ Copyright © 2019 itsB. All rights reserved.
+ */
+"common_not_init" = "Không được phê nhận.";
+"charge_no_item" = "Vật phẩm thanh toán của bạn không thể được tìm thấy.";
+"charge_not_pay" = "Chưa được trả";
+"charge_check_setting" = "Xin hãy kiểm tra mục cài đặt trong menu và thử lại.";
+"charge_recharge" = "Bạn đã yêu cầu cấp lại vì bạn thanh toán của bạn bất ổn.";
+"charge_ok" = "OK";
+"charge_user_cancel" = "Hủy bỏ";
+"channel_not_link" = "Kênh này chưa được liên kết.";
+"channel_guest_unlink" = "Khách không thể hủy liên kết";
+"update_new_version" = "Phiên bản mới nhất (%@) đã có.\nXin hãy cập nhật từ cửa hàng.";
+"status_exit" = "Đóng";
+"status_more" = "Chi tiết";
+"status_next" = "Tiếp theo";
+"status_go_store"="Di chuyển vào cửa hàng";
+"agree_all_agree" = "Hoàn toàn đồng ý";
+"agree_terms" = "Điều khoản sử dụng (bao gồm chấp nhận quảng cáo)";
+"agree_privacy" = "Hướng dẫn cho việc thu thập và lựa chọn sử dụng thông tin cá nhân";
+"agree_night" = "Chấp nhận quảng cáo hàng đêm";
+"agree_show" = "Cho xem";
+"agree_accept_terms" = "Đồng ý";
+"agree_game_start" = "Bắt đầu trò chơi";
+"webview_first_page" = "Đây là trang đầu tiên.";
+"webview_today" = "Không xem hôm nay";
+"appleid_version_error" = "Đăng nhập Apple ID chỉ được hỗ trợ trên iOS 13 trở lên.";
+

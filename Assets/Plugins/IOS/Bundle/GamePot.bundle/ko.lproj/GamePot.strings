@@ -1,0 +1,32 @@
+/*
+ Localizable.strings
+ GamePotSample
+ 
+ Created by Lee Chungwon on 19/02/2019.
+ Copyright © 2019 itsB. All rights reserved.
+ */
+"common_not_init" = "초기화 되지 않았습니다.";
+"charge_no_item" = "해당 결제 아이템을 찾을 수 없습니다.";
+"charge_not_pay" = "결제 불가능";
+"charge_check_setting" = "설정 메뉴를 확인 후 다시 시도해 주세요.";
+"charge_recharge" = "정상처리 되지 않은 결제 건이 있어 재지급 요청했습니다.";
+"charge_ok" = "확인";
+"charge_user_cancel" = "취소되었습니다";
+"channel_not_link" = "연동이 안 돼 있는 채널 입니다.";
+"channel_guest_unlink" = "Guest는 연동 해제 할 수 없습니다.";
+"update_new_version" = "최신버전(%@)이 존재합니다.\n스토어에서 업데이트 해주세요.";
+"status_exit" = "종료";
+"status_more" = "자세히 보기";
+"status_next" = "다음에 하기";
+"status_go_store"="스토어로 이동";
+"agree_all_agree" = "전체 동의";
+"agree_terms" = "이용약관(광고성 수신 동의 포함)";
+"agree_privacy" = "개인정보 수집 및 이용안내";
+"agree_night" = "선택) 야간 광고성 수신 동의";
+"agree_show" = "보기";
+"agree_accept_terms" = "약관 동의";
+"agree_game_start" = "게임 시작하기";
+"webview_first_page" = "첫 페이지 입니다.";
+"webview_today" = "오늘 하루 다시 보지 않기";
+"appleid_version_error" = "Apple ID 로그인은 IOS 13이상에서만 지원 됩니다.";
+

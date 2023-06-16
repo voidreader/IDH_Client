@@ -1,0 +1,6 @@
+framework module GamePotLine {
+  umbrella header "GamePotLine.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,32 @@
+/*
+ Localizable.strings
+ GamePotSample
+ 
+ Created by Lee Chungwon on 19/02/2019.
+ Copyright © 2019 itsB. All rights reserved.
+ */
+"common_not_init" = "ยังไม่เริ่ม";
+"charge_no_item" = "ไม่พบรายการที่คุณชำระ";
+"charge_not_pay" = "ยังไม่ชำระ";
+"charge_check_setting" = "โปรดตรวจสอบเมนูตั้งค่าและลองใหม่อีกครั้ง";
+"charge_recharge" = "คุณได้ร้องขอการออกใบเสร็จใหม่เพราะคุณมีการชำระเงินที่ยังไม่เสร็จสิ้น";
+"charge_ok" = "ตกลง";
+"charge_user_cancel" = "ยกเลิกแล้ว";
+"channel_not_link" = "ช่องทางนี้ยังไม่ถูกเชื่อมต่อ";
+"channel_guest_unlink" = "ไม่สามารถยกเลิกการเชื่อมต่อโดยผู้มาเยือนได้";
+"update_new_version" = "มีเวอร์ชั่นล่าสุด (%@)\n โปรดอัปเดตจากสโตร์";
+"status_exit" = "ปิด";
+"status_more" = "รายละเอียด";
+"status_next" = "ต่อไป";
+"status_go_store"="ไปยังร้านค้า";
+"agree_all_agree" = "สัญญาฉบับเต็ม";
+"agree_terms" = "เงื่อนไขการใช้งาน (รวมถึงการยอมรับการโฆษณา)";
+"agree_privacy" = "แนวทางการเก็บและใช้ข้อมูลส่วนตัว";
+"agree_night" = "เลือก) ยอมรับการโฆษณากลางคืน";
+"agree_show" = "แสดง";
+"agree_accept_terms" = "ยอมรับ";
+"agree_game_start" = "เริ่มเกม";
+"webview_first_page" = "นี่คือหน้าแรก";
+"webview_today" = "ไม่ดูวันนี้";
+"appleid_version_error" = "การลงชื่อเข้าใช้ Apple ID รองรับเฉพาะ iOS 13 หรือใหม่กว่าเท่านั้น";
+

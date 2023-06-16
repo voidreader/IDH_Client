@@ -1,0 +1,6 @@
+framework module GamePotApple {
+  umbrella header "GamePotApple.h"
+
+  export *
+  module * { export * }
+}

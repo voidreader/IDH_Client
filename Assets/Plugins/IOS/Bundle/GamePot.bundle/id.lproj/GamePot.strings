@@ -1,0 +1,32 @@
+/*
+ Localizable.strings
+ GamePotSample
+ 
+ Created by Lee Chungwon on 19/02/2019.
+ Copyright © 2019 itsB. All rights reserved.
+ */
+"common_not_init" = "Belum dimulai.";
+"charge_no_item" = "Item pembayaran Anda tidak dapat ditemukan.";
+"charge_not_pay" = "Belum dibayar";
+"charge_check_setting" = "Silakan lihat menu pengaturan dan coba lagi.";
+"charge_recharge" = "Anda meminta pembayaran ulang karena Anda memiliki pembayaran yang belum diselesaikan.";
+"charge_ok" = "OK";
+"charge_user_cancel" = "Batal";
+"channel_not_link" = "Channel ini tidak terhubung.";
+"channel_guest_unlink" = "Tamu yang terhubung tidak dapat dibatalkan";
+"update_new_version" = "Versi terbaru (%@) telah rilis. \nSilakan perbarui dari store.";
+"status_exit" = "Tutup";
+"status_more" = "Detail";
+"status_next" = "Lanjut";
+"status_go_store" = "Pindah ke Store";
+"agree_all_agree" = "Kesepakatan penuh";
+"agree_terms" = "Ketentuan Penggunaan (termasuk penerimaan iklan)";
+"agree_privacy" = "Pedoman untuk mengumpulkan dan menggunakan informasi pribadi";
+"agree_night" = "pilih) Penerimaan iklan malam";
+"agree_show" = "Tampilkan";
+"agree_accept_terms" = "Setuju";
+"agree_game_start" = "Mulai permainan";
+"webview_first_page" = "Ini halaman pertama.";
+"webview_today" = "Jangan menonton hari ini";
+"appleid_version_error" = "Login ID Apple hanya didukung di iOS 13 atau lebih baru.";
+

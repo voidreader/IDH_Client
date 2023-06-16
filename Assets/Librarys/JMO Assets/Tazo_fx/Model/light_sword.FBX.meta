@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 5cce14b7f6db6444195797e9c5571500
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: light_sword_01
+    100004: light_sword_01_m
+    100006: light_sword_02
+    100008: light_sword_02_m
+    100010: light_sword_03
+    100012: light_sword_03_m
+    400000: //RootNode
+    400002: light_sword_01
+    400004: light_sword_01_m
+    400006: light_sword_02
+    400008: light_sword_02_m
+    400010: light_sword_03
+    400012: light_sword_03_m
+    2300000: light_sword_01_m
+    2300002: light_sword_02_m
+    2300004: light_sword_03_m
+    3300000: light_sword_01_m
+    3300002: light_sword_02_m
+    3300004: light_sword_03_m
+    4300000: light_sword_01_m
+    4300002: light_sword_02_m
+    4300004: light_sword_03_m
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: light_sword_01
+        weight: 1
+      - path: light_sword_01/light_sword_01_m
+        weight: 1
+      - path: light_sword_01/light_sword_02
+        weight: 1
+      - path: light_sword_01/light_sword_02/light_sword_02_m
+        weight: 1
+      - path: light_sword_01/light_sword_03
+        weight: 1
+      - path: light_sword_01/light_sword_03/light_sword_03_m
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0900000036
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,31 @@
+/*
+ Localizable.strings
+ GamePotSample
+ 
+ Created by Lee Chungwon on 19/02/2019.
+ Copyright © 2019 itsB. All rights reserved.
+ */
+"common_not_init" = "未初始化。";
+"charge_no_item" = "找不到你的付款項。";
+"charge_not_pay" = "未付款";
+"charge_check_setting" = "請檢查設置菜單並重試。";
+"charge_recharge" = "你被要求重新發起是因爲你有一筆未結清的款項。";
+"charge_ok" = "好的";
+"charge_user_cancel" = "取消";
+"channel_not_link" = "此頻道未鏈接。";
+"channel_guest_unlink" = "遊客不能連接";
+"update_new_version" = "最新版本 (%@) 存在。\n請在應用商店更新。";
+"status_exit" = "關閉";
+"status_more" = "細節";
+"status_next" = "下一個";
+"status_go_store"="移動到應用商店";
+"agree_all_agree" = "完全同意";
+"agree_terms" = "使用條款（包括接受廣告）";
+"agree_privacy" = "參考收集個人信息收集";
+"agree_night" = "選擇）接受夜間廣告";
+"agree_show" = "顯示";
+"agree_accept_terms" = "同意";
+"agree_game_start" = "開始遊戲";
+"webview_first_page" = "這是第一頁。";
+"webview_today" = "今天不看";
+"appleid_version_error" = "僅在iOS 13或更高版本上支持Apple ID登錄。";

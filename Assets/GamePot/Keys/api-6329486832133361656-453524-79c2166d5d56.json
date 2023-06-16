@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-6329486832133361656-453524",
+  "private_key_id": "79c2166d5d568c74802f9f343986b2c8ddea1971",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjEJ1y523Ww8bb\nMe6Mqd+wKnSxWkVGoRtoZjmIDM5t4hAUW5rkCB/7AOrfuuMa3udwn5qxg/FiSvqc\nbK8ABtRJwLBpS7Y/VoHnArc77RbUSUOJ6AqmsRwxkh1rNzRSMp8mWi/ILidxKLen\nTO52Bqo9CASr5pfvhYItUYOehmagC3sDPXE/pjtTB7iqOYS60QmlS5aYlO6EPo9E\nHJM6pxvxMX+8+bWN36vhKe9OzF5tfw5rUsyQ0weA+skoE9Wz19NIdbfdmLAWMnch\nr9WCSyaKw4jLMjNjdlOAefjt5uI9V0dCs1WH5acoGXI+UHTl9tXzRYJLs8iWLKsQ\nY6mvr5ifAgMBAAECggEAI1iwqH2eA5XAfzcdnIQeJtOtI9yLc7nsdP7jragI/yyn\ni6InuxI/zGrwfrrGC8cRqAoQwDX3lvTlyg6NCJZyYeJQ2yI8SRJ5ahfenDDSaAXR\njA0ucd+mWuBvXBRFVSP/95JJFT1b811+Ide9QPxE3qHkUVbUzGjGRQiMXUqI6Fv8\nB9n7LUEC3FTjmCK50mFfXb/vAxz/7x57WdDpdBXTyRzuZuPgSwuSN2fDSKlBCk0a\nWuC9bKgJSvCquuzlePNFF57zkvv7bzJg3hHySYGF7bT4IPPqklhnUC41vx3ut9sU\nK6Cy6/99vMBAeFjyoS5llvpDT5hXQqtG4iT2aVb0EQKBgQDW2A6PE+ufkZeQLcRy\nfdEDVOs7KU/LBZAJZRTZn1ZQ2Bsezg36JKXlvKMeVeLTVfug86s7CwMhxv3FsoaN\n2e6u6PH3QakhhopFJhQ6L1HZsroohwUWjOhhUUzPMj1WIntyZY86m3pght6EsWvo\nQDoF+MBHQ/04amb26MIOFiBV+wKBgQDCTVBY3jN8/QTByVz/HdbMVvLQg2q17YAq\nZLzqtnevHPeJRDmhsnayX+L/PdAs/xxpCOFosvH+QL8sQ9ugeqQDtCyn0GIyM90a\nOUJvQXYVrce/hj0fm8o2gfiwQCe67RcVJgAgUS67Sl8OHufiNOkOl+Dp+eppMT2o\nF2piAC4arQKBgAICcVhrQkfyz60ckHrVrG/Qioa6IzHt8mP0GxbSA7er3c0S9lSB\npT+Z3Ri6iu2ZH0ppHQ/nUXcuak9AFTwcbrwaF7FNXuyeWoq9CXFl4ekcX9tjL+v/\nE2ldnk9N0/8LQYZXZtiQfbuLZ2dsVWsNtr05j2rbOvIdJKtoj/Abyt+jAoGAPHjt\nkcsOQU9KJLn0DJ6P1KcXCVhtZNPXONqDhZVmqISecgVe3nl5wchgEMp/ORHpGLOf\n3AMdl+E03qT7/PVOiKyR3WTYuwEzRk8d4xx/kP22FmDEM0s8YzyOVuSQuPfDYFyk\nW2qI3demv/FUgC2xf047vPaAQ18E7oTjIj8mGj0CgYAQhXV9eZTuXrE3nbH45a5Q\nFgcBKj9wNCd9F18fz1OYX4GdP2uwV6+PXz7kuRvSKlfbAho3exJn8tuNJHSCvK49\ncG+H74RyXf8YxJXKkbGwusvQAXn+WyjxXtq7RqDUNOsbPA6WCRWfagfXhyaRXN5u\n0pXdCic1AK7I6YiI/fbMuw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "imageframe-game@api-6329486832133361656-453524.iam.gserviceaccount.com",
+  "client_id": "105970377604510244976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imageframe-game%40api-6329486832133361656-453524.iam.gserviceaccount.com"
+}

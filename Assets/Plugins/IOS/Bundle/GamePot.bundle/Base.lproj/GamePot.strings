@@ -1,0 +1,32 @@
+/*
+ Localizable.strings
+ GamePotSample
+ 
+ Created by Lee Chungwon on 19/02/2019.
+ Copyright © 2019 itsB. All rights reserved.
+ */
+"common_not_init" = "Not initialized.";
+"charge_no_item" = "Your payment item could not be found.";
+"charge_not_pay" = "Unpaid";
+"charge_check_setting" = "Please check the settings menu and try again.";
+"charge_recharge" = "You have requested a reissue because you have an unsettled payment.";
+"charge_ok" = "OK";
+"charge_user_cancel" = "Canceled";
+"channel_not_link" = "This channel is not linked.";
+"channel_guest_unlink" = "Guests can not be unlinked";
+"update_new_version" = "The latest version (%@) exists.\nPlease update from the store.";
+"status_exit" = "Close";
+"status_more" = "Detail";
+"status_next" = "Next";
+"status_go_store" = "Move to Store";
+"agree_all_agree" = "Full agreement";
+"agree_terms" = "Terms of Use (including acceptance of advertising)";
+"agree_privacy" = "Guidelines for collecting and using personal information";
+"agree_night" = "select) Nightly advertising acceptance";
+"agree_show" = "Show";
+"agree_accept_terms" = "Agree";
+"agree_game_start" = "Start the game";
+"webview_first_page" = "This is the first page.";
+"webview_today" = "Do not watch today";
+"appleid_version_error" = "Apple ID login is only supported on iOS 13 or later.";
+

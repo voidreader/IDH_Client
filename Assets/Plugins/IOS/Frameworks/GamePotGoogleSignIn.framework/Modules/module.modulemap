@@ -1,0 +1,6 @@
+framework module GamePotGoogleSignIn {
+  umbrella header "GamePotGoogleSignIn.h"
+
+  export *
+  module * { export * }
+}

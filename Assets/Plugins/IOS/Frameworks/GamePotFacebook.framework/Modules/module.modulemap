@@ -1,0 +1,6 @@
+framework module GamePotFacebook {
+  umbrella header "GamePotFacebook.h"
+
+  export *
+  module * { export * }
+}

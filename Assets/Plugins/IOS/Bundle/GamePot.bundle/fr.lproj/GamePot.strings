@@ -1,0 +1,32 @@
+/*
+ Localizable.strings
+ GamePotSample
+ 
+ Created by Lee Chungwon on 19/02/2019.
+ Copyright © 2019 itsB. All rights reserved.
+ */
+"common_not_init" = "Non initialisé.";
+"charge_no_item" = "Votre paiement n'a pas été trouvé.";
+"charge_not_pay" = "Non payé";
+"charge_check_setting" = "Veuillez vérifier les paramètres et réessayer.";
+"charge_recharge" = "Vous avez demandé une réédition car votre paiement n'a pas abouti.";
+"charge_ok" = "OK";
+"charge_user_cancel" = "Annulé";
+"channel_not_link" = "Cette chaîne n'est pas liée.";
+"channel_guest_unlink" = "Les invités ne peuvent pas être déliés.";
+"update_new_version" = "La dernière version (%@) existe. \n Veuillez effectuer la mise à jour sur Store.";
+"status_exit" = "Fermer";
+"status_more" = "Détailler";
+"status_next" = "Suivant";
+"status_go_store" = "Aller sur le Store";
+"agree_all_agree" = "Accord plein";
+"agree_terms" = "Termes d'utilisation (incluant l'acceptation de la publicité)";
+"agree_privacy" = "Principes de collecte et d'utilisation des données personnelles.";
+"agree_night" = "Sélectionner) Acceptation des publicités nocturnes";
+"agree_show" = "Montrer";
+"agree_accept_terms" = "Accepter";
+"agree_game_start" = "Commencer le jeu";
+"webview_first_page" = "Ceci est la première page";
+"webview_today" = "Ne pas regarder aujourd'hui";
+"appleid_version_error" = "La connexion à un identifiant Apple est uniquement prise en charge sur iOS 13 ou version ultérieure.";
+

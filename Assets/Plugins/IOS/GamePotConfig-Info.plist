@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gamepot_facebook_app_id</key>
+	<string>809464242801380</string>
+	<key>gamepot_facebook_display_name</key>
+	<string>IDH</string>
+	<key>gamepot_google_app_id</key>
+	<string>1089105904969-uunjfhab6lc4s12s0skmebm6eq1kp19p.apps.googleusercontent.com</string>
+	<key>gamepot_google_url_schemes</key>
+	<string>com.googleusercontent.apps.1089105904969-uunjfhab6lc4s12s0skmebm6eq1kp19p</string>
+	<key>gamepot_project_id</key>
+	<string>541f35d1-99dc-42d0-b6f8-a01f8128775c</string>
+	<key>gamepot_api_url</key>
+	<string></string>
+	<key>gamepot_dash_url</key>
+	<string>https://cloud-dashboard.gamepot.io</string>
+</dict>
+</plist>

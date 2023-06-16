@@ -1,0 +1,6 @@
+framework module GamePotLogger {
+  umbrella header "GamePotLogger.h"
+
+  export *
+  module * { export * }
+}
