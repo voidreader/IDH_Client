@@ -1,0 +1,86 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+internal class SplashSys : SubSysBase
+{
+	UISprite ci;
+	public SplashSys() : base(SubSysType.Splash)
+	{
+	}
+
+	internal override void EnterSys(ParaBase _para)
+	{
+		base.EnterSys(_para);
+
+		var go = new GameObject();
+		go.transform.parent = GameCore.Instance.ui_root;
+		go.layer = LayerMask.NameToLayer("UI");
+
+		ci = go.AddComponent<UISprite>();
+		ci.alpha = 0f;
+		ci.spriteName = "splash";
+
+		var st = go.AddComponent<UIStretch>();
+		st.container = GameCore.Instance.ui_root.gameObject;
+		st.style = UIStretch.Style.Both;
+
+
+		UIAtlas[] atlases = new UIAtlas[2];
+		atlases[0] = Resources.Load<UIAtlas>("Splash/Splash_1");
+		atlases[1] = Resources.Load<UIAtlas>("Splash/Splash_2");
+
+		ci.StartCoroutine(CoSplash(atlases));
+	}
+
+	internal override void ExitSys(ParaBase _para)
+	{
+		base.ExitSys(_para);
+
+		if( ci != null )
+		{
+			GameObject.Destroy(ci.gameObject);
+			ci = null;
+		}
+	}
+	IEnumerator CoSplash(UIAtlas[] _atlases)
+	{
+		yield return new WaitForSeconds(1f);
+
+		float time, acc;
+		for( int i = 0; i < _atlases.Length; ++i)
+		{
+			// init
+			ci.atlas = _atlases[i];
+
+			// fade in
+			ci.alpha = 0f;
+			time = 0.5f;
+			acc = Time.deltaTime;
+			while (acc / time < 1f)
+			{
+				ci.alpha = acc / time;
+				yield return null;
+				acc += Time.deltaTime;
+			}
+			ci.alpha = 1f;
+
+			// wait
+			yield return new WaitForSeconds(1f);
+
+			// fade out
+			time = 0.5f;
+			acc = Time.deltaTime;
+			while (acc / time < 1f)
+			{
+				ci.alpha = 1f - acc / time;
+				yield return null;
+				acc += Time.deltaTime;
+			}
+			ci.alpha = 0f;
+		}
+
+		GameCore.Instance.ChangeSubSystem(SubSysType.Lobby, new LobbyPara() { });
+	}
+}
