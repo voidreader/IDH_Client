@@ -1,0 +1,16 @@
+battlebg,7617131
+battlecard,612236
+bgm,19736565
+bossillust,369375
+herocard,1270273
+heroillust,5426539
+interior_01,730291
+itemcard,3135745
+profile_icon,1020255
+spines,10501350
+story_7000000,1870891
+story_7000001,445567
+story_7000002,307027
+teamskillcard,1691030
+ui,13721622
+unityatlas,9647230
